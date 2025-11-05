@@ -1,0 +1,16 @@
+# 编译输出
+/target/
+**/*.rs.bk
+
+# 配置文件（包含个人路径信息）
+/paths.json
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
